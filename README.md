@@ -68,7 +68,13 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/aman-anand" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/aman-anand-tech/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/amananand19" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+</a>
 <a href="mailto:anandaman920@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40"/></a>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>

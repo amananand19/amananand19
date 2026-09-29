@@ -19,7 +19,7 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 - 📚 **Currently learning:** _add a language / framework / tool you're picking up_
 - 💬 **Ask me about:** C, C++, Java, Python, or Linux
 - 👨‍💻 **Portfolio:** [amananand19.github.io](https://amananand19.github.io/aman-anand.github.io/)
-- 📫 **Email:** anandaman920@gmail.com
+- 📫 **Email:** amananandyaduwanshi1.0@gmail.com
 - ⚡ **Fun fact:** I am funny
 
 > 💡 Tip: replace the two italic lines above with your real current project and what you're learning — recruiters and visitors read those first.

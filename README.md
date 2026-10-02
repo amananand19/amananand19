@@ -18,7 +18,7 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 - 🌱 **Notable project:** Face Attendance Management System
 - 📚 **Currently learning:** _add a language / framework / tool you're picking up_
 - 💬 **Ask me about:** C, C++, Java, Python, or Linux
-- 👨‍💻 **Portfolio:** [amananand19.github.io](https://amananand19.github.io/aman-anand.github.io/)
+- 👨‍💻 **Portfolio:** [Aman-Portfolio]([(https://amananand19.github.io/Aman-Portfolio/))
 - 📫 **Email:** amananandyaduwanshi1.0@gmail.com
 - ⚡ **Fun fact:** I am funny
 

@@ -18,7 +18,7 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 - 🌱 **Notable project:** Face Attendance Management System
 - 📚 **Currently learning:** _add a language / framework / tool you're picking up_
 - 💬 **Ask me about:** C, C++, Java, Python, or Linux
-- 👨‍💻 **Portfolio:** [Aman-Portfolio]([(https://amananand19.github.io/Aman-Portfolio/))
+- 👨‍💻 **Portfolio:** [Aman-Portfolio](https://amananand19.github.io/Aman-Portfolio/)
 - 📫 **Email:** amananandyaduwanshi1.0@gmail.com
 - ⚡ **Fun fact:** I am funny
 
@@ -54,9 +54,10 @@ I'm a Computer Engineering enthusiast, coding since 2020, passionate about build
 ## 🏆 Competitive Programming
 
 <p align="left">
-<a href="https://www.codechef.com/users/amananand_23" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/profile/amananand_19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
+<a href="https://www.hackerrank.com/profile/aman_19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
 <a href="https://leetcode.com/u/amananand_19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
+<a href="https://takeuforward.org/profile/amananand_19" target="_blank"><img src="https://takeuforward.org/favicon.ico" alt="Take U Forward" height="30" width="40"/></a>
+</p>
 </p>
 
 ## 📌 Projects
